@@ -1,6 +1,7 @@
 /*
  * Common CSS style
  */
-.box	{width: 100%; height: auto; padding: 10px; border: 1px solid black; float: left; margin: 0 20px 0 0; overflow-x: scroll}
+.box	{width: 98%; height: auto; padding: 10px; border: 1px solid black; float: left; margin: 0 20px 0 0; overflow-x: scroll}
 h1		{text-align: center}
 h2		{text-align: center}
+#qt		{margin-right:10px;}
